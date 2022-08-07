@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285747848248', '️Oᴡɴᴇʀ One ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Two ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Three ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Four ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Five ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Six ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285747848248', '️Oᴡɴᴇʀ Seven ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285380166282', '️Oᴡɴᴇʀ Eight ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285380166282', '️Oᴡɴᴇʀ Nine ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6285380166282', '️Oᴡɴᴇʀ Teen ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true]
+  ['6285237596750', '️Oᴡɴᴇʀ One ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Two ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Three ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Four ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Five ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Six ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Seven ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Eight ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Nine ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
+  ['6285237596750', '️Oᴡɴᴇʀ Teen ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true]
 ]
 global.mods = []
 global.prems = []
@@ -50,19 +50,19 @@ global.APIs = {
 /*Apikey*/
 global.APIKeys = {
  'https://api.neoxr.my.id' : 'JeJU827J',
- 'https://api.lolhuman.xyz' : '9b817532fadff8fc7cb86862',
- 'https://api.xteam.xyz' : 'NezukoTachibana281207',
+ 'https://api.lolhuman.xyz' : 'bca5b104e231d4708ce6dfa8',
+ 'https://api.xteam.xyz' : 'dbd2727467f1b673',
  'https://api.zeks.xyz' : 'apivinz',
  'https://hardianto-chan.herokuapp.com' : 'hardianto',
  'https://hardianto.xyz' : 'hardianto',
  'https://leyscoders-api.herokuapp.com' : 'MIMINGANZ',
- 'https://melcanz.com' : 'manHkmst',
+ 'https://melcanz.com' : 's3Icbx3z',
  'https://pencarikode.xyz' : 'pais',
  'https://rest-beni.herokuapp.com' : 'benniismaelapikey',
- 'https://violetics.pw' : 'beta',
+ 'https://violetics.pw' : 'df62-6a09-c559',
  'https://zahirr-web.herokuapp.com' : 'zahirgans',
- 'https://zekais-api.herokuapp.com' : 'zekais',
- 'https://zenzapis.xyz' : 'f9fccfcff1'
+ 'https://zekais-api.herokuapp.com' : '65miqoKL',
+ 'https://zenzapis.xyz' : '0a10a5cdcb'
 }
 
 /*Alphakey*/
@@ -71,15 +71,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*Number*/
-global.nomorbot = '6285217380741'
-global.nomorown = '6285747848248'
-global.namebot = 'Freaad BOTZ'
-global.nameown = 'Oᴡɴᴇʀ FerdiX9dev'
+global.nomorbot = '6285792429140'
+global.nomorown = '6285237596750'
+global.namebot = 'D I T Y A ⁻ ᴹ ᴰ'
+global.nameown = 'Oᴡɴᴇʀ D I T Y A ⁻ ᴹ ᴰ'
 
 /*Watermark*/
-global.wm = '                「 Freaad BOTZ あ⁩ 」'
+global.wm = '                「 D I T Y A  ⁻ ᴹ ᴰ あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ FerdiX9dev'
+global.wm3 = '⫹⫺ D I T Y A  ⁻ ᴹ ᴰ'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -374,11 +374,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://instagram.com/Kahfi_ofc'
-global.sgh = 'https://github.com/kahfi-XD'
-global.sgc = 'https://chat.whatsapp.com/EArOqvYKMvMKB5zdXJFVxg'
-global.sdc = 'https://github.com/VanzBotz'
-global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
+global.sig = 'https://instagram.com/q.c.ditya'
+global.sgh = 'https://github.com/Dityaastawa'
+global.sgc = 'https://chat.whatsapp.com/ItmAE6roJjQIOru4wqkYQz'
+global.sdc = 'https://github.com/Dityaastawa'
+global.snh = 'https://github.com/Dityaastawa'
 
 /*Nsfw*/
 global.optsnsfw = true
@@ -420,9 +420,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ D I T Y A ⁻ ᴹ ᴰ\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'FerdiX9dev'
+global.author = 'D I T Y A ⁻ ᴹ ᴰ X Multi'
 global.multiplier = 69
 
 /*Pesan*/
@@ -430,22 +430,22 @@ global.eror = 'Erorr...'
 global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/EArOqvYKMvMKB5zdXJFVxg'
+global.logo = 'https://telegra.ph/file/45bd5e2af6c13c6cd08c0.jpg'
+global.gcwangsaf = 'https://chat.whatsapp.com/ItmAE6roJjQIOru4wqkYQz'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/kahfiaja'
-global.dana = ['085380166282']
-global.pulsa = ['085380166282']
-global.trakteer = ''
-global.paypal = ''
-global.gopay = ''
-global.pdana = ''
-global.povo = ''
-global.pgopay = ''
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085380166282'
-global.psaweria = 'https://saweria.co/kahfiaja'
+global.saweria = 'gak ada'
+global.dana = ['085792429140']
+global.pulsa = ['085792429148']
+global.trakteer = 'gak ada'
+global.paypal = 'gak ada'
+global.gopay = '085792429140'
+global.pdana = '085792429140'
+global.povo = '085738153140'
+global.pgopay = '085792429140'
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085792429140'
+global.psaweria = 'gak ada'
 
 /*Emoji*/
 global.rpg = {
